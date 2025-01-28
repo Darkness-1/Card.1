@@ -1,0 +1,15 @@
+<script>start("c:\\It start-up\\Card 3\\my-project\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("node_modules","node_modules",1,0,"0 B",1737214037,"1/18/25, 5:27:17 PM");</script>
+<script>addRow("public","public",1,0,"0 B",1737213957,"1/18/25, 5:25:57 PM");</script>
+<script>addRow("src","src",1,0,"0 B",1737213957,"1/18/25, 5:25:57 PM");</script>
+<script>addRow(".gitignore",".gitignore",0,253,"253 B",1737206861,"1/18/25, 3:27:41 PM");</script>
+<script>addRow("eslint.config.js","eslint.config.js",0,734,"734 B",1737206861,"1/18/25, 3:27:41 PM");</script>
+<script>addRow("index.html","index.html",0,353,"353 B",1737281472,"1/19/25, 12:11:12 PM");</script>
+<script>addRow("package-lock.json","package-lock.json",0,110960,"108 kB",1737213994,"1/18/25, 5:26:34 PM");</script>
+<script>addRow("package.json","package.json",0,682,"682 B",1737213957,"1/18/25, 5:25:57 PM");</script>
+<script>addRow("README.md","README.md",0,1607,"1.6 kB",1737206861,"1/18/25, 3:27:41 PM");</script>
+<script>addRow("tsconfig.app.json","tsconfig.app.json",0,665,"665 B",1737206861,"1/18/25, 3:27:41 PM");</script>
+<script>addRow("tsconfig.json","tsconfig.json",0,119,"119 B",1737206861,"1/18/25, 3:27:41 PM");</script>
+<script>addRow("tsconfig.node.json","tsconfig.node.json",0,593,"593 B",1737206861,"1/18/25, 3:27:41 PM");</script>
+<script>addRow("vite.config.ts","vite.config.ts",0,161,"161 B",1737206861,"1/18/25, 3:27:41 PM");</script>
